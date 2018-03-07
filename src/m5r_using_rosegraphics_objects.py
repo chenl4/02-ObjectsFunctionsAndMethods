@@ -59,8 +59,8 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #            It generates the window.
 #
 #     g. When is a RoseWindow close_on_mouse_click method call necessary?  Why?
-#            It is important at the last of the program, since it helps stop it
-#           and you don't have to move your mouse a lot.
+#            It is important at the last of the program, since it tells you the program
+#           has finished running and you can close the window without moving your mouse a lot.
 #
 #   ASK QUESTIONS ** NOW ** if you do not understand how the
 #     RoseGraphics graphics system works.
